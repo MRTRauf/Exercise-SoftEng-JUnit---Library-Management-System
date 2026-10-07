@@ -1,0 +1,8 @@
+Questions
+1. Is easy to test the Main class? Why? For the moment, you can avoid testing the Main class.
+
+ANSWER
+
+No, the Main class is not easy to test because it interacts directly with the user through the command line. This makes unit testing more difficult, so it is better to test the Book and Library classes separately
+
+Student Name: Muhammad Rauf
